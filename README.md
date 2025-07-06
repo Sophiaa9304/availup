@@ -1,4 +1,4 @@
-7654321## Availup
+87654321## Availup
 To run an Avail light client, simply run the following command:
 ```bash
 curl -sL1 avail.sh | bash
